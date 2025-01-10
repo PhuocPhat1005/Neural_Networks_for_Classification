@@ -1,0 +1,20 @@
+[
+    {
+        "model": "tensorflow_keras",
+        "accuracy": 0.5262,
+        "training_time": 648.5319087505341,
+        "cpu_usage": 26.849999999999998
+    },
+    {
+        "model": "pytorch",
+        "accuracy": 0.5715,
+        "training_time": 1699.3644816875458,
+        "cpu_usage": 32.65
+    },
+    {
+        "model": "scikit_learn",
+        "accuracy": 0.4426,
+        "training_time": 17243.792502641678,
+        "cpu_usage": 21.0
+    }
+]
